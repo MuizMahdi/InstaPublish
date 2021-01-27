@@ -1,10 +1,10 @@
 {
-   "name": "publish-js",
+   "name": "@muizzmahdy/publish-js",
    "version": "1.0.1",
    "description": "Publishing made easy",
    "main": "index.js",
    "bin": {
-      "publishjs": "./index.js"
+      "publishjs": "index.js"
    },
    "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
@@ -21,6 +21,6 @@
       "figlet": "^1.2.4",
       "fs-extra": "^9.1.0",
       "inquirer": "^7.0.3",
-      "lodash": "^4.17.15"
+      "lodash": "^4.17.20"
    }
 }
