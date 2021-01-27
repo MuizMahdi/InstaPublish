@@ -6,7 +6,7 @@ const figlet = require('figlet');
 const fs = require('fs-extra');
 const child_process = require('child_process');
 
-const updatesJsonDir = '.\\assets\\json\\';
+const updatesJsonDir = '.\\src\\assets\\json\\';
 const updatesJsonFile = 'latest-updates.json'
 const updatesJsonPath = updatesJsonDir + updatesJsonFile;
 
