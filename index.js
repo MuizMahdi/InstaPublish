@@ -13,7 +13,7 @@ const updatesJsonPath = updatesJsonDir + updatesJsonFile;
 
 // Init
 clear();
-console.log(chalk.yellow(figlet.textSync('GitPublisher', { horizontalLayout: 'full' })));
+console.log(chalk.yellow(figlet.textSync('PublishJs', { horizontalLayout: 'full' })));
 
 
 // Run
