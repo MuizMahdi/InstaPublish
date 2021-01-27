@@ -1,0 +1,26 @@
+{
+   "name": "git-publisher",
+   "version": "1.0.0",
+   "description": "Publishing made easy",
+   "main": "index.js",
+   "bin": {
+      "gitpublish": "./index.js"
+   },
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "keywords": [
+      "Git",
+      "CLI"
+   ],
+   "author": "Muizz M. Mahdy",
+   "license": "MIT",
+   "dependencies": {
+      "chalk": "^3.0.0",
+      "clear": "^0.1.0",
+      "figlet": "^1.2.4",
+      "fs-extra": "^9.1.0",
+      "inquirer": "^7.0.3",
+      "lodash": "^4.17.15"
+   }
+}
